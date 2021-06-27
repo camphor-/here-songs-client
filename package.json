@@ -23,7 +23,7 @@
     "@nuxtjs/proxy": "^2.1.0",
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/style-resources": "^1.0.0",
-    "@nuxtjs/vuetify": "^0.5.6",
+    "@nuxtjs/vuetify": "^1.12.1",
     "axios": "^0.21.1",
     "copy-to-clipboard": "^3.3.1",
     "cross-env": "^7.0.3",
