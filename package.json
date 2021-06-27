@@ -27,7 +27,7 @@
     "axios": "^0.21.1",
     "copy-to-clipboard": "^3.3.1",
     "cross-env": "^7.0.3",
-    "nuxt": "^2.14.12",
+    "nuxt": "^2.15.7",
     "nuxt-property-decorator": "^2.9.1",
     "qrcode-svg": "^1.1.0",
     "vuetify": "^1.5.16"
